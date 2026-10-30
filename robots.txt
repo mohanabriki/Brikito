@@ -3,7 +3,4 @@
 User-agent: *
 Allow: /
 
-# Old duplicate export of the homepage – not meant for search results
-Disallow: /Brikito%20(standalone).html
-
 Sitemap: https://www.brikito.com/sitemap.xml
